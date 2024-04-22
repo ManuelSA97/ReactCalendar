@@ -25,7 +25,8 @@
 }
 .btnSubmit
 {
-    width: 50%;
+    width: 100%;
+    margin: 0 auto;
     border-radius: 1rem;
     padding: 1.5%;
     border: none;
